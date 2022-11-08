@@ -1,9 +1,9 @@
 import express from 'express';
 import 'express-async-errors';
 import cors from 'cors';
-import routes from '../routes';
+import routes from '../../routes';
 
-import uploadConfig from '../config/upload';
+import uploadConfig from '../../config/upload';
 
 const app = express();
 app.use(cors());
