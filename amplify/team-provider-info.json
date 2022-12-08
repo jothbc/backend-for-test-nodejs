@@ -15,7 +15,7 @@
       "function": {
         "nodetest8353d7f0": {
           "deploymentBucketName": "amplify-nodetest-dev-193808-deployment",
-          "s3Key": "amplify-builds/nodetest8353d7f0-53703973746c4b6e4e51-build.zip"
+          "s3Key": "amplify-builds/nodetest8353d7f0-4b586b617a33736e5a45-build.zip"
         }
       },
       "api": {
